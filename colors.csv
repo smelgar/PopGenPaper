@@ -1,0 +1,63 @@
+SampleIDC,SampleID,House,HouseColor,Village,VillageColor,Department,DepartmentColor,Country,CountryColor
+A9944,A9944,JUT-D-FM,chocolate2,Llano_Santa_María,cyan3,Jutiapa,chocolate2,Guatemala,blue
+A9948,A9948,JUT-D-FM,chocolate2,Llano_Santa_María,cyan3,Jutiapa,chocolate2,Guatemala,blue
+A9950,A9950,JUT-D-FM,chocolate2,Llano_Santa_María,cyan3,Jutiapa,chocolate2,Guatemala,blue
+CHJ0007_L,CHJ0007,CHAP-D-65,chartreuse2,El_Chaperno,cornflowerblue,Jutiapa,chocolate2,Guatemala,blue
+CHJ011_A,CHJ0011,CHAP-D-125,white,El_Chaperno,cornflowerblue,Jutiapa,chocolate2,Guatemala,blue
+CHJ013_A,CHJ0013,CHAP-D-155,chartreuse4,El_Chaperno,cornflowerblue,Jutiapa,chocolate2,Guatemala,blue
+CHJ083_A,CHJ0083,CHAP-D-114-115,chartreuse,El_Chaperno,cornflowerblue,Jutiapa,chocolate2,Guatemala,blue
+CHJ155_A,CHJ0155,CHAP-D-54,white,El_Chaperno,cornflowerblue,Jutiapa,chocolate2,Guatemala,blue
+CHJ188_A,CHJ0188,CHAP-D-64,darkolivegreen2,El_Chaperno,cornflowerblue,Jutiapa,chocolate2,Guatemala,blue
+S174_A,S174,#N/A,white,,white,Sonsonate,green,El_Salvador,green
+S234_A,S234,#N/A,white,"Chilguyo, Texistepeque",coral1,Santa_Ana,yellow,El_Salvador,green
+S236_A,S236,#N/A,white,"Chilguyo, Texistepeque",coral1,Santa_Ana,yellow,El_Salvador,green
+S238_A,S238,#N/A,white,"Chilguyo, Texistepeque",coral1,Santa_Ana,yellow,El_Salvador,green
+S239_A,S239,#N/A,white,"Chilguyo, Texistepeque",coral1,Santa_Ana,yellow,El_Salvador,green
+S327_A,S327,#N/A,white,"Caserio San Raymundo, Canton Llano",orange,Ahuachapan,aquamarine,El_Salvador,green
+S328_A,S328,#N/A,white,"Caserio San Raymundo, Canton Llano",orange,Ahuachapan,aquamarine,El_Salvador,green
+S333_A,S333,#N/A,white,"Caserio Sarita Loma, Aldea La Primavera",darkorange,Santa_Ana,yellow,El_Salvador,green
+S336_A,S336,#N/A,white,"Caserio Sarita Loma, Aldea La Primavera",darkorange,Santa_Ana,yellow,El_Salvador,green
+S358_A,S358,#N/A,white,"Cantón Las Flores Cerro Alto, Municipio Caluco ",black,Sonsonate,green,El_Salvador,green
+S359_A,S359,#N/A,white,"Cantón Las Flores Cerro Alto, Municipio Caluco ",black,Sonsonate,green,El_Salvador,green
+S443_A,S443,#N/A,white,"El Aguacate, Azacualpa, Municipio de Armenia",brown1,Sonsonate,green,El_Salvador,green
+S445_A,S445,#N/A,white,"El Aguacate, Azacualpa, Municipio de Armenia",brown1,Sonsonate,green,El_Salvador,green
+S446_A,S446,#N/A,white,"El Aguacate, Azacualpa, Municipio de Armenia",brown1,Sonsonate,green,El_Salvador,green
+S447_A,S447,#N/A,white,"El Aguacate, Azacualpa, Municipio de Armenia",brown1,Sonsonate,green,El_Salvador,green
+S448_A,S448,#N/A,white,"El Aguacate, Azacualpa, Municipio de Armenia",brown1,Sonsonate,green,El_Salvador,green
+S451_A,S451,#N/A,white,"El Aguacate, Azacualpa, Municipio de Armenia",brown1,Sonsonate,green,El_Salvador,green
+S453_A,S453,#N/A,white,"El Aguacate, Azacualpa, Municipio de Armenia",brown1,Sonsonate,green,El_Salvador,green
+S455_A,S455,#N/A,white,"El Aguacate, Azacualpa, Municipio de Armenia",brown1,Sonsonate,green,El_Salvador,green
+S476_A,S476,#N/A,white,"El Zacatal, Amatepec",bisque2,Santa_Ana,yellow,El_Salvador,green
+S478_A,S478,#N/A,white,"El Zacatal, Amatepec",bisque2,Santa_Ana,yellow,El_Salvador,green
+S486_A,S486,#N/A,white,"El Zacatal, Amatepec",bisque2,Santa_Ana,yellow,El_Salvador,green
+S487_A,S487,#N/A,white,"El Zacatal, Amatepec",bisque2,Santa_Ana,yellow,El_Salvador,green
+S507a_A,S507a,#N/A,white,"El Zacatal, Amatepec",bisque2,Santa_Ana,yellow,El_Salvador,green
+S507b_A,S507b,#N/A,white,"El Zacatal, Amatepec",bisque2,Santa_Ana,yellow,El_Salvador,green
+S649_A,S649,#N/A,white,Santa_Ana,deeppink,Santa_Ana,yellow,El_Salvador,green
+TEX0010,TEX0010,#N/A,white,Santa_Ana,deeppink,Santa_Ana,yellow,El_Salvador,green
+TEX0023,TEX0023,#N/A,white,Santa_Ana,deeppink,Santa_Ana,yellow,El_Salvador,green
+TPG1017_A,TPG1017,CHI-D137A,white,"El_Cerrón,_Olopa",brown3,Chiquimula,red,Guatemala,blue
+TPG154,TPG154,CHI-D204,white,"La_Prensa,_Olopa",bisque,Chiquimula,red,Guatemala,blue
+TPG324,TPG324,CHI-D48,antiquewhite4,"El_Cerrón,_Olopa",aquamarine,Chiquimula,red,Guatemala,blue
+TPG715,TPG715,CHI-D13,white,"La_Prensa,_Olopa",bisque,Chiquimula,red,Guatemala,blue
+TPG761,TPG761,#N/A,white,"La_Prensa,_Olopa",bisque,Chiquimula,red,Guatemala,blue
+TPS0053,TPS0053,#N/A,white,"Chilguyo, Texistepeque",coral1,Santa_Ana,yellow,El_Salvador,green
+TPS0068,TPS0068,#N/A,white,"Chilguyo, Texistepeque",coral1,Santa_Ana,yellow,El_Salvador,green
+TPS0180,TPS0180,#N/A,white,El_Jute,burlywood,Santa_Ana,yellow,El_Salvador,green
+TPS0225,TPS0225,#N/A,white,El_Jute,burlywood,Santa_Ana,yellow,El_Salvador,green
+TPS0330,TPS0330,#N/A,white,El_Jute,burlywood,Santa_Ana,yellow,El_Salvador,green
+TPS0400,TPS0400,#N/A,white,El_Jute,burlywood,Santa_Ana,yellow,El_Salvador,green
+CHJ1016_L,CHJ1016,CARR-D-39,white,El_Carrizal,cornsilk3,Jutiapa,chocolate2,Guatemala,blue
+CHJ168_A,CHJ0168,CHAP-D-81,green,El_Chaperno,cornflowerblue,Jutiapa,chocolate2,Guatemala,blue
+CHJ169_A,CHJ0169,CHAP-D-81,green,El_Chaperno,cornflowerblue,Jutiapa,chocolate2,Guatemala,blue
+CHJ172_A,CHJ0172,CHAP-D-156,white,El_Chaperno,cornflowerblue,Jutiapa,chocolate2,Guatemala,blue
+CHJ360_A,CHJ0360,CARR-D-63,white,El_Carrizal,cornsilk3,Jutiapa,chocolate2,Guatemala,blue
+CHJ362_A,CHJ0362,CARR-D-58,white,El_Carrizal,cornsilk3,Jutiapa,chocolate2,Guatemala,blue
+CHJ363_A,CHJ0363,CARR-D-57,white,El_Carrizal,cornsilk3,Jutiapa,chocolate2,Guatemala,blue
+CHJ364_A,CHJ0364,CARR-D-95,white,El_Carrizal,cornsilk3,Jutiapa,chocolate2,Guatemala,blue
+CHJ366_A,CHJ0366,CARR-D-93,aquamarine4,El_Carrizal,cornsilk3,Jutiapa,chocolate2,Guatemala,blue
+CHJ367_A,CHJ0367,CARR-D-93,aquamarine4,El_Carrizal,cornsilk3,Jutiapa,chocolate2,Guatemala,blue
+CHJ376_A,CHJ0376,CARR-D-18A,aquamarine,El_Carrizal,cornsilk3,Jutiapa,chocolate2,Guatemala,blue
+CHJ378_A,CHJ0378,CARR-D-18A,aquamarine,El_Carrizal,cornsilk3,Jutiapa,chocolate2,Guatemala,blue
+CHJ386_A,CHJ0386,CARR-D-18A,aquamarine,El_Carrizal,cornsilk3,Jutiapa,chocolate2,Guatemala,blue
+TPG1217_A,TPG1217,CHI-D19,antiquewhite3,"La_Prensa,_Olopa",bisque,Chiquimula,red,Guatemala,blue
